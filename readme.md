@@ -40,15 +40,17 @@ Survey_Salary_Analysis_Project/
 3. **SQL Analytics** - Designed normalized schema, wrote 16 business intelligence queries
 4. **Data Visualization** - Built 4-page interactive Power BI dashboard with drill-down capabilities
 
-## Dashboard Preview
+## Power BI Dashboard Gallery
 
-![Dashboard Overview](5.screenshots/powerbi/1.Overview.png)
+<p align="center">
+  <img src="5.screenshots/powerbi/Overview.png" width="48%" />
+  <img src="5.screenshots/powerbi/2.Gender_Analysis.png" width="48%" />
+</p>
 
-![Gender Analysis](5.screenshots/powerbi/2.Gender_Analysis.png)
-
-![Geographical_Analysis](5.screenshots/powerbi/3.Geographical_Analysis.png)
-
-![Career_Progression_&_Growth](5.screenshots/powerbi/4.Career_Progression_&_Growth.png)
+<p align="center">
+  <img src="5.screenshots/powerbi/3.Geographical_Analysis.png" width="48%" />
+  <img src="5.screenshots/powerbi/4.Career_Progression_&_Growth.png" width="48%" />
+</p>
 
 **Interactive Features:**
 - Filter by country, job category, career level
